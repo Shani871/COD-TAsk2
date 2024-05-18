@@ -2,11 +2,11 @@
   <br>
 * id: ICOD7370
   <br>
-* Domain: java Programming
+* Domain: Java Programming
   <br>
 * Duration : 25th April to 25th may 2024
   <br>
-* Mentor : Sarvani gouni
+* Mentor : Sravani gouni
   <br>
 # Description:
 The Java Chatbot project aims to create an interactive conversational agent capable of understanding natural language input and providing relevant responses to users. Leveraging natural language processing (NLP) techniques, the chatbot interprets user queries accurately, ensuring a seamless and intuitive user experience. 
